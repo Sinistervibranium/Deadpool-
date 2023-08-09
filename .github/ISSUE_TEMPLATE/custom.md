@@ -1,9 +1,9 @@
 ---
-name: Custom issue template
-about: Describe this issue template's purpose here.
-title: ''
-labels: ''
-assignees: ''
+name: joker 
+about: be fearless like a joker  purpose here.hack anyone 
+title: 'joker'
+labels: 'hack'
+assignees: 'hack'
 
 ---
 
